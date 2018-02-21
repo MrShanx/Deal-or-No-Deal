@@ -1,7 +1,7 @@
 # Deal-or-No-Deal
 Java game application based on the popular tv show. <br/>
-Java Swing Technology:<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    JFrame, JPanel, JLabel, JButton, JDialog <br/><br/>
+<i>Java Swing Technology:<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    JFrame, JPanel, JLabel, JButton, JDialog</i> <br/><br/>
     
 Game commences exactly as in the tv show: <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Player picks 1 case out of 26 different cases, each with random money values between $1 and $2,000,000. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

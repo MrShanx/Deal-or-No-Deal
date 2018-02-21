@@ -8,5 +8,7 @@ Game commences exactly as in the tv show: <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
   Each level of the game the player opens a number of cases, eliminating the values along with them. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   At the end of each level, the Banker calls and gives an offer. Banker's offer depends on the remaining cases and their values. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Player has the choice to take the deal or to keep on playing. <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Game ends with Player taking the deal or sticking with his/her first case pick.
+  Game ends with Player taking the deal or sticking with his/her first case pick. <br/><br/>
+  
+  Currently Menu.java (GUI frame) not implemented into the game.
   

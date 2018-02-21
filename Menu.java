@@ -1,6 +1,7 @@
 /*
  * Decompiled with CFR 0_123.
  */
+//Currently not included when application is run
 package myPackage;
 
 import java.awt.BorderLayout;
